@@ -1,0 +1,12 @@
+name: SimpleEventManager
+main: hu.bendi.sven.Sven
+version: 1.0
+author: Bendi
+description: A lightweight solution for Event management.
+commands:
+  sven:
+    description: Manage sven.
+  event:
+    description: Manage events.
+permissions:
+  sven.event:
